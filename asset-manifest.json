@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pavanganesh3965/colour_picker/static/css/main.ab9e5bb8.css",
-    "main.js": "/Pavanganesh3965/colour_picker/static/js/main.0b4c82d8.js",
-    "static/js/787.6018e935.chunk.js": "/Pavanganesh3965/colour_picker/static/js/787.6018e935.chunk.js",
-    "index.html": "/Pavanganesh3965/colour_picker/index.html",
-    "main.ab9e5bb8.css.map": "/Pavanganesh3965/colour_picker/static/css/main.ab9e5bb8.css.map",
-    "main.0b4c82d8.js.map": "/Pavanganesh3965/colour_picker/static/js/main.0b4c82d8.js.map",
-    "787.6018e935.chunk.js.map": "/Pavanganesh3965/colour_picker/static/js/787.6018e935.chunk.js.map"
+    "main.css": "/colour_picker/static/css/main.ab9e5bb8.css",
+    "main.js": "/colour_picker/static/js/main.8828d075.js",
+    "static/js/787.6018e935.chunk.js": "/colour_picker/static/js/787.6018e935.chunk.js",
+    "index.html": "/colour_picker/index.html",
+    "main.ab9e5bb8.css.map": "/colour_picker/static/css/main.ab9e5bb8.css.map",
+    "main.8828d075.js.map": "/colour_picker/static/js/main.8828d075.js.map",
+    "787.6018e935.chunk.js.map": "/colour_picker/static/js/787.6018e935.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab9e5bb8.css",
-    "static/js/main.0b4c82d8.js"
+    "static/js/main.8828d075.js"
   ]
 }
